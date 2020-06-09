@@ -1,0 +1,179 @@
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Regular.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../my-portfolio/fonts/GT-Walsheim-Regular.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Regular-Oblique.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Regular-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Regular-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Regular-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Regular-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../my-portfolio/fonts/GT-Walsheim-Regular-Oblique.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Medium.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Medium.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../my-portfolio/fonts/GT-Walsheim-Medium.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Medium-Oblique.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Medium-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Medium-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Medium-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Medium-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../my-portfolio/fonts/GT-Walsheim-Medium-Oblique.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Bold.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../my-portfolio/fonts/GT-Walsheim-Bold.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Bold-Oblique.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Bold-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Bold-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Bold-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Bold-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../my-portfolio/fonts/GT-Walsheim-Bold-Oblique.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Black.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Black.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Black.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Black.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../my-portfolio/fonts/GT-Walsheim-Black.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Black-Oblique.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Black-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Black-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Black-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Black-Oblique.ttf') format('truetype'); /* Safari, Android, iOS */
+  font-weight: 900;
+  font-style: italic;
+}
+
+:root {
+  font-family: GTWalsheim, roboto;
+  font-weight: 100;
+}
+
+p, li {
+  font-size: 20px;
+}
+#header {
+  background-color: #FCD751;
+  width: 1235px;
+  height: 130px;
+  margin: 30px 30px 0px 30px;
+  padding: 5px 0px 5px 0px;
+  text-align: center;
+}
+
+#header-text {
+  font-size: 30px;
+}
+
+#bluebox {
+  background-color: #030042;
+  color: white;
+  height: 400px;
+  width: 800px;
+  margin: 0px;
+  padding: 10px 40px 10px 80px;
+  position: absolute;
+  top: 170px;
+  left: 40px;
+}
+
+#kids-pic {
+  width: 300px;
+  position: absolute;
+  top: 311px;
+  left: 960px;
+}
+#mail-icon {
+  width:50px;
+  position: relative;
+  bottom: 25px;
+}
+#mail-address {
+  position: relative;
+  left: 70px;
+  top: 30px;
+}
+
+#greenbox {
+  background-color: #81E18A;
+  height: 300px;
+  width: 1100px;
+  margin: 0px;
+  padding: 10px 40px 10px 80px;
+  position: absolute;
+  top: 590px;
+  left: 40px;
+}
+
+#footer {
+  background-color: #25752C;
+  height: 80px;
+  width: 1220px;
+  padding: 5px 0px 5px 0px;
+  position: absolute;
+  top: 910px;
+  left: 40px;
+  text-align: center;
+  color: white;
+}
+
+.white-font {
+  color: white;
+}
