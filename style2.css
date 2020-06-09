@@ -1,102 +1,102 @@
 @font-face {
   font-family: 'GTWalsheim';
   /* IE9 Compat Modes */
-  src: url('../fonts/GT-Walsheim-Regular.eot');
-  src: url('../fonts/GT-Walsheim-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
-  url('../fonts/GT-Walsheim-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-  url('fonts/GT-Walsheim-Regular.woff') format('woff'), /* Pretty Modern Browsers */
-  url('fonts/GT-Walsheim-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
-  url('fonts/GT-Walsheim-Regular.svg#svgFontName') format('svg');
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Regular.eot');
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../codemeetsworld/fonts/GT-Walsheim-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../codemeetsworld/fonts/GT-Walsheim-Regular.svg#svgFontName') format('svg');
   /* Legacy iOS */
   font-weight: 400;
   font-style: normal;
 }
-/* @font-face {
-  font-family: 'GTWalsheimOblique';
+@font-face {
+  font-family: 'GTWalsheim';
   /* IE9 Compat Modes */
-  src: url('../fonts/GT-Walsheim-Regular-Oblique.eot');
-  src: url('../fonts/GT-Walsheim-Regular-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
-  url('../fonts/GT-Walsheim-Regular-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
-  url('../fonts/GT-Walsheim-Regular-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
-  url('../fonts/GT-Walsheim-Regular-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
-  url('../fonts/GT-Walsheim-Regular-Oblique.svg#svgFontName') format('svg');
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Regular-Oblique.eot');
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Regular-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../codemeetsworld/fonts/GT-Walsheim-Regular-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Regular-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Regular-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../codemeetsworld/fonts/GT-Walsheim-Regular-Oblique.svg#svgFontName') format('svg');
   /* Legacy iOS */
   font-weight: 400;
   font-style: italic;
 }
 @font-face {
-  font-family: 'GTWalsheimMedium';
+  font-family: 'GTWalsheim';
   /* IE9 Compat Modes */
-  src: url('../fonts/GT-Walsheim-Medium.eot');
-  src: url('../fonts/GT-Walsheim-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
-  url('../fonts/GT-Walsheim-Medium.woff2') format('woff2'), /* Super Modern Browsers */
-  url('../fonts/GT-Walsheim-Medium.woff') format('woff'), /* Pretty Modern Browsers */
-  url('../fonts/GT-Walsheim-Medium.ttf') format('truetype'), /* Safari, Android, iOS */
-  url('../fonts/GT-Walsheim-Medium.svg#svgFontName') format('svg');
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Medium.eot');
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../codemeetsworld/fonts/GT-Walsheim-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Medium.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../codemeetsworld/fonts/GT-Walsheim-Medium.svg#svgFontName') format('svg');
   /* Legacy iOS */
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
-  font-family: 'GTWalsheimMediumOblique';
+  font-family: 'GTWalsheim';
   /* IE9 Compat Modes */
-  src: url('../fonts/GT-Walsheim-Medium-Oblique.eot');
-  src: url('../fonts/GT-Walsheim-Medium-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
-  url('../fonts/GT-Walsheim-Medium-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
-  url('../fonts/GT-Walsheim-Medium-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
-  url('../fonts/GT-Walsheim-Medium-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
-  url('../fonts/GT-Walsheim-Medium-Oblique.svg#svgFontName') format('svg');
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Medium-Oblique.eot');
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Medium-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../codemeetsworld/fonts/GT-Walsheim-Medium-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Medium-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Medium-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../codemeetsworld/fonts/GT-Walsheim-Medium-Oblique.svg#svgFontName') format('svg');
   /* Legacy iOS */
   font-weight: 500;
   font-style: italic;
 }
 @font-face {
-  font-family: 'GTWalsheimBold';
+  font-family: 'GTWalsheim';
   /* IE9 Compat Modes */
-  src: url('../fonts/GT-Walsheim-Bold.eot');
-  src: url('../fonts/GT-Walsheim-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
-  url('../fonts/GT-Walsheim-Bold.woff2') format('woff2'), /* Super Modern Browsers */
-  url('../fonts/GT-Walsheim-Bold.woff') format('woff'), /* Pretty Modern Browsers */
-  url('../fonts/GT-Walsheim-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
-  url('../fonts/GT-Walsheim-Bold.svg#svgFontName') format('svg');
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Bold.eot');
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../codemeetsworld/fonts/GT-Walsheim-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../codemeetsworld/fonts/GT-Walsheim-Bold.svg#svgFontName') format('svg');
   /* Legacy iOS */
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
-  font-family: 'GTWalsheimBoldOblique';
+  font-family: 'GTWalsheim';
   /* IE9 Compat Modes */
-  src: url('../fonts/GT-Walsheim-Bold-Oblique.eot');
-  src: url('../fonts/GT-Walsheim-Bold-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
-  url('../fonts/GT-Walsheim-Bold-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
-  url('../fonts/GT-Walsheim-Bold-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
-  url('../fonts/GT-Walsheim-Bold-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
-  url('../fonts/GT-Walsheim-Bold-Oblique.svg#svgFontName') format('svg');
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Bold-Oblique.eot');
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Bold-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../codemeetsworld/fonts/GT-Walsheim-Bold-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Bold-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Bold-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../codemeetsworld/fonts/GT-Walsheim-Bold-Oblique.svg#svgFontName') format('svg');
   /* Legacy iOS */
   font-weight: 700;
   font-style: italic;
 }
 @font-face {
-  font-family: 'GTWalsheimBlack';
+  font-family: 'GTWalsheim';
   /* IE9 Compat Modes */
-  src: url('../fonts/GT-Walsheim-Black.eot');
-  src: url('../fonts/GT-Walsheim-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
-  url('../fonts/GT-Walsheim-Black.woff2') format('woff2'), /* Super Modern Browsers */
-  url('../fonts/GT-Walsheim-Black.woff') format('woff'), /* Pretty Modern Browsers */
-  url('../fonts/GT-Walsheim-Black.ttf') format('truetype'), /* Safari, Android, iOS */
-  url('../fonts/GT-Walsheim-Black.svg#svgFontName') format('svg');
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Black.eot');
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../codemeetsworld/fonts/GT-Walsheim-Black.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Black.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Black.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../codemeetsworld/fonts/GT-Walsheim-Black.svg#svgFontName') format('svg');
   /* Legacy iOS */
   font-weight: 900;
   font-style: normal;
 }
 @font-face {
-  font-family: 'GTWalsheimBlackOblique';
+  font-family: 'GTWalsheim';
   /* IE9 Compat Modes */
-  src: url('../fonts/GT-Walsheim-Black-Oblique.eot');
-  src: url('../fonts/GT-Walsheim-Black-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
-  url('../fonts/GT-Walsheim-Black-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
-  url('../fonts/GT-Walsheim-Black-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
-  url('../fonts/GT-Walsheim-Black-Oblique.ttf') format('truetype'); /* Safari, Android, iOS */
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Black-Oblique.eot');
+  src: url('../codemeetsworld/fonts/GT-Walsheim-Black-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../codemeetsworld/fonts/GT-Walsheim-Black-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Black-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../codemeetsworld/fonts/GT-Walsheim-Black-Oblique.ttf') format('truetype'); /* Safari, Android, iOS */
   font-weight: 900;
   font-style: italic;
 }
