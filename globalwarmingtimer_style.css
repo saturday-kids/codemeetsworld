@@ -1,0 +1,249 @@
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Regular.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../my-portfolio/fonts/GT-Walsheim-Regular.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Regular-Oblique.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Regular-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Regular-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Regular-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Regular-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../my-portfolio/fonts/GT-Walsheim-Regular-Oblique.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Medium.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Medium.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../my-portfolio/fonts/GT-Walsheim-Medium.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Medium-Oblique.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Medium-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Medium-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Medium-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Medium-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../my-portfolio/fonts/GT-Walsheim-Medium-Oblique.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Bold.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../my-portfolio/fonts/GT-Walsheim-Bold.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Bold-Oblique.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Bold-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Bold-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Bold-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Bold-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../my-portfolio/fonts/GT-Walsheim-Bold-Oblique.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Black.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Black.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Black.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Black.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../my-portfolio/fonts/GT-Walsheim-Black.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../my-portfolio/fonts/GT-Walsheim-Black-Oblique.eot');
+  src: url('../my-portfolio/fonts/GT-Walsheim-Black-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../my-portfolio/fonts/GT-Walsheim-Black-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Black-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../my-portfolio/fonts/GT-Walsheim-Black-Oblique.ttf') format('truetype'); /* Safari, Android, iOS */
+  font-weight: 900;
+  font-style: italic;
+}
+
+
+:root {
+  font-family: GTWalsheim, calibri, roboto;
+  text-align: center;
+}
+
+#everything {
+  margin: 30px;
+}
+
+.header {
+  background-color: #FCD12A;
+  width: 845px;
+  margin: 0px;
+  padding: 20px 0px 20px 0px;
+}
+
+p {
+  font-size: 25px;
+}
+
+.box {
+  height: 200px;
+  width: 200px;
+  color: white; 
+  padding: 30px;
+  font-family: GTWalsheim, roboto;
+}
+
+.pic {
+  height: 260px;
+  width: 260px;
+  margin-top: 25px;
+  margin-left: 20px;
+}
+
+.row-1 {
+  position: absolute;
+  top: 160px;
+}
+
+.row-2 {
+  position: absolute;
+  top: 560px;
+}
+
+.row-3 {
+  position: absolute;
+  top: 960px;
+}
+
+.left {
+  position: absolute;
+  left: 40px;
+}
+
+.center {
+  left: 310px;
+}
+
+.right {
+  left: 620px;
+}
+
+.red {
+  background-color: #D54857;
+}
+
+.blue {
+  background-color: #030042;
+}
+
+#row-1-end {
+  position: absolute;
+  top: 480px;
+}
+
+#row-2-end {
+  position: absolute;
+  top: 880px;
+}
+
+#row-3-end {
+  position: absolute;
+  top: 1280px;
+}
+
+.inside-pic {
+  position: absolute;
+  left: 325px;
+  width: 270px;
+  text-align: center;
+}
+
+#row-1-inside-pic {
+  top: 230px;
+}
+#row-2-inside-pic {
+  top: 630px;
+} 
+#row-3-inside-pic {
+  top: 1030px;
+} 
+
+.timer-display {
+  /*font-family: monospace;*/
+  font-size: 50px;
+  margin-bottom: 100px;
+  color: white;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black, 3px 3px black;
+}
+
+#sources {
+  width: 845px;
+  margin: 0px;
+  position: absolute;
+  top: 1400px;
+  font-size: 8px;
+}
+
+.source {
+  font-size: 15px;
+}
+
+.button {
+  background: rgba(10, 10, 10, 0.5);
+  border-radius: 5px;
+  border: 1px solid #ffffff;
+  display: inline-block;
+  cursor: pointer;
+  color: white;
+  font-family: GTWalsheim, roboto;
+  font-size: 15px;
+  width: 110px;
+  padding: 5px;
+  margin: 5px;
+  box-shadow: 0px 10px 12px -5px black;
+}
+.button:hover {
+  background-color: #FCD12A;
+  color: black;
+}
+.button:active {
+  position: relative;
+  top: 2px;
+}
