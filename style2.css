@@ -1,0 +1,217 @@
+@font-face {
+  font-family: 'GTWalsheim';
+  /* IE9 Compat Modes */
+  src: url('../fonts/GT-Walsheim-Regular.eot');
+  src: url('../fonts/GT-Walsheim-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../fonts/GT-Walsheim-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+  url('fonts/GT-Walsheim-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+  url('fonts/GT-Walsheim-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('fonts/GT-Walsheim-Regular.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 400;
+  font-style: normal;
+}
+/* @font-face {
+  font-family: 'GTWalsheimOblique';
+  /* IE9 Compat Modes */
+  src: url('../fonts/GT-Walsheim-Regular-Oblique.eot');
+  src: url('../fonts/GT-Walsheim-Regular-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../fonts/GT-Walsheim-Regular-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/GT-Walsheim-Regular-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../fonts/GT-Walsheim-Regular-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/GT-Walsheim-Regular-Oblique.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'GTWalsheimMedium';
+  /* IE9 Compat Modes */
+  src: url('../fonts/GT-Walsheim-Medium.eot');
+  src: url('../fonts/GT-Walsheim-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../fonts/GT-Walsheim-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/GT-Walsheim-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../fonts/GT-Walsheim-Medium.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/GT-Walsheim-Medium.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTWalsheimMediumOblique';
+  /* IE9 Compat Modes */
+  src: url('../fonts/GT-Walsheim-Medium-Oblique.eot');
+  src: url('../fonts/GT-Walsheim-Medium-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../fonts/GT-Walsheim-Medium-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/GT-Walsheim-Medium-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../fonts/GT-Walsheim-Medium-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/GT-Walsheim-Medium-Oblique.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'GTWalsheimBold';
+  /* IE9 Compat Modes */
+  src: url('../fonts/GT-Walsheim-Bold.eot');
+  src: url('../fonts/GT-Walsheim-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../fonts/GT-Walsheim-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/GT-Walsheim-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../fonts/GT-Walsheim-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/GT-Walsheim-Bold.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTWalsheimBoldOblique';
+  /* IE9 Compat Modes */
+  src: url('../fonts/GT-Walsheim-Bold-Oblique.eot');
+  src: url('../fonts/GT-Walsheim-Bold-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../fonts/GT-Walsheim-Bold-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/GT-Walsheim-Bold-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../fonts/GT-Walsheim-Bold-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/GT-Walsheim-Bold-Oblique.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'GTWalsheimBlack';
+  /* IE9 Compat Modes */
+  src: url('../fonts/GT-Walsheim-Black.eot');
+  src: url('../fonts/GT-Walsheim-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../fonts/GT-Walsheim-Black.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/GT-Walsheim-Black.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../fonts/GT-Walsheim-Black.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../fonts/GT-Walsheim-Black.svg#svgFontName') format('svg');
+  /* Legacy iOS */
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GTWalsheimBlackOblique';
+  /* IE9 Compat Modes */
+  src: url('../fonts/GT-Walsheim-Black-Oblique.eot');
+  src: url('../fonts/GT-Walsheim-Black-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*/
+  url('../fonts/GT-Walsheim-Black-Oblique.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../fonts/GT-Walsheim-Black-Oblique.woff') format('woff'), /* Pretty Modern Browsers */
+  url('../fonts/GT-Walsheim-Black-Oblique.ttf') format('truetype'); /* Safari, Android, iOS */
+  font-weight: 900;
+  font-style: italic;
+}
+
+body{
+  background-color: #333333; 
+  font-family: 'GTWalsheim';
+}
+
+#pictures{
+  height:300px;
+}
+
+#intro-text{
+  color:#FCD751;
+  
+}
+
+#first-section1{
+  text-align:center;
+  background-color:#333333;
+  padding: 10px;
+
+}
+
+#first-section2{
+  text-align:center;
+  background-color:#424242;
+  padding: 10px;
+}
+
+#intro{
+  background-color:black;
+  padding:10px;
+
+}
+
+#para1{
+  color:#FFE81F;
+    text-align: justify !important;
+
+}
+
+#part1{
+  background-color: #FCD751;
+  padding:10px; 
+}
+
+#quote{
+  color: black;
+}
+
+#part1text{
+  color:#333333;
+  text-align: justify !important;
+
+}
+#part1t{
+color:#333333;
+text-align: center;
+}
+
+#zoomchoice{
+  color:#333333;
+  text-align: justify !important;
+
+}
+
+#part2{
+  background-color: #00D5D5;
+  padding:10px; 
+}
+
+#lose1{
+  background-color:#FFC0CB;
+  padding:10px;
+}
+
+#failure{
+  color:#222222;
+  text-align: justify !important;
+
+}
+
+#ending{
+  background-color:#98FB98;
+  padding:10px;
+}
+
+#goodend{
+text-align:justify !important;}
+
+
+.ZCOOL{
+    font-weight:bold;
+    font-family:'ZCOOL Kuaile' , cursive;
+}
+
+a{
+	font-size: 22px !important;
+	text-decoration: underline !important;
+	text-align: justify !important;
+	
+}
+
+#end{
+font-size: 36px;
+text-align: center;
+color:#222222;
+}
+
+
+#credit{
+color:white !important;
+}
+
+
+

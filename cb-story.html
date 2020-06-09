@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Circuit Broken</title>
+  <link rel="stylesheet" href="./style.css">
+  <link href="https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap" rel="stylesheet">
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Circuit Broken</title>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css'>
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div id="first-section1">
+  <h1 class="ZCOOL" id="intro-text">Circuit Broken</h1>
+  <h4 class="ZCOOL" id="intro-text">An Interactive Story</h4>
+</div>
+
+<div id ="first-section2">
+  <div class="center-align container">
+    <h5 id="intro-text"><b>Click the button to begin</b></h5>
+    <button class="btn-large waves-effect waves-light" onclick="start()">Start</button>
+  </div>
+</div>
+
+<div class="scale-transition scale-out" id="intro">
+  <div class="container center-align">
+    <p id=para1 class="flow-text">
+      The year is 2020, COVID-19 is widespread and running rampant in society.
+    </p>
+    <div class="pictures"><figure><img src="https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80" id="pictures"><figcaption id=credit>Image Credit: Fusion Medical Animation on Unsplash</figcaption></figure></div>
+    <p id=para1 class="flow-text">
+      Singapore has put in place measures known as the Circuit Breaker, where its citizens have to adhere to social distancing measures responsibly.
+    </p>
+    <p id=para1 class="flow-text">
+      You have been complying responsibly for the past month, but have been growing increasingly restless as you miss your friends and meeting up with them.
+    </p>
+    <button class="btn-large wave-effect waves-light" onClick="section1()">Continue</button>
+  </div>
+</div>
+
+<div class="scale-transition scale-out" id="part1">
+  <div class="center-align container">
+    
+    <h4 id=part1t><b>Temptation</b></h4>
+	<div class="pictures"><figure><img src="https://images.unsplash.com/photo-1573997463158-3004cc0d8d4b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" id="pictures"><figcaption id=credit>Image Credit: Yukitaka Iha (@iavivai) on Unsplash</figcaption></figure></div>
+    <p id=part1text class="flow-text">
+      You are minding your own business, watching YouTube videos and contemplating whether or not to finally cave in and attempt the latest Instagram stay-home trends when you see a notification on your phone.
+    </p>
+    <p id =quote class="flow-text">
+      <i><b>"I've had enough of this, let's sneak out and meet up at a park to "exercise alone" together."</b></i>
+    </p>
+    <p id=part1text class="flow-text">
+      Your group chat immediately starts pinging with messages, and after some debating and polling, it seems that your friends have been bored out of their minds and either want to go out or have a Zoom session to catch up with everyone's lives. The deciding vote was down to you. Which choice do you make?
+    </p>
+    <button class="btn-large waves-effect waves-light" onclick="section2a()" id="zoom">Zoom!</button>
+    <button class="btn-large waves-effect waves-light" onclick="section2b()" id="sneak">Sneak Out!</button>
+  </div>
+</div>
+
+<div class="scale-transition scale-out" id="part2">
+  <div class="center-align container">
+    <p id=zoomchoice class="flow-text">
+      You cast the deciding vote and your friends accept that following the law is the smartest thing to do for everyone involved. The virus is not a joke. You boot up your laptop and hop onto a Zoom call with all your friends.
+    </p>
+	<div class="pictures"><figure><img src="https://images.unsplash.com/photo-1585974738771-84483dd9f89f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1266&q=80" id="pictures"><figcaption id=credit>Image Credit: Gabriel Benois on Unsplash</figcaption></figure></div>
+    <button class="btn-large waves-effect waves-light cyan" onclick="end()">Continue</button>
+  </div>
+</div>
+
+<div class="scale-transition scale-out" id="lose1">
+  <div class="center-align container">
+    <p id="failure" class="flow-text">
+      You decide to sneak out. You decide that the meeting point is the park near all of your houses. You put on your mask and make your way down to the park. 5 minutes after meeting everybody, your suspiciously large group is questioned by the police officers patrolling and you get detained.
+    </p>
+    <div class="pictures"><figure><img src="https://images.unsplash.com/photo-1521437100987-e1cb2178879b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" id="pictures"><figcaption id=credit>Image Credit: niu niu (@anneniuniu) on Unsplash</figcaption></figure></div>
+      <b id=end>The End?</b><br>
+    <p id="failure" class="flow-text">
+      <b>So why is it so important to observe social distancing during a pandemic?</b> Explore these interactive simulations to understand how we can all play a part in stopping the spread of Covid-19.</p>
+		<p style="text-align:left"><a href="https://www.nytimes.com/interactive/2020/04/14/science/coronavirus-transmission-cough-6-feet-ar-ul.html">Simulation 1: Watch how far infectious droplets can spread from a cough.</a></p>
+		<p style="text-align:left"><a href="https://www.tableau.com/about/blog/2020/4/social-distancing-three-data-driven-simulations-will-show-you-just-how-important">Simulation 2: See what happens in a community that practices social distancing, compared to one that doesn't.</a></p>
+		<p style="text-align:left"><a href="https://peopleofthepandemicgame.com/">Simulation 3: See how even your small decisions can have a big impact on the safety of your community.</a></li></p>
+    <button class="btn-large waves-effect waves-light cyan" onclick="window.location.href=window.location.href">Click here to play again</button>
+  </div>
+</div>
+
+<div class="scale-transition scale-out" id="ending">
+  <div class="center-align container">
+    <b id=end>Good Job!</b><br>
+	<p id="goodend" class="flow-text">
+	  
+	  You've kept yourself, your friends and your community safe with your actions! We need more people to do the same, and make these right decisions. Share the below to help your friends and loved ones understand why it's important to observe social distancing measures.</p>
+		<p style="text-align:left"><a href="https://www.nytimes.com/interactive/2020/04/14/science/coronavirus-transmission-cough-6-feet-ar-ul.html">Simulation 1: Watch how far infectious droplets can spread from a cough.</a></p>
+		<p style="text-align:left"><a href="https://www.tableau.com/about/blog/2020/4/social-distancing-three-data-driven-simulations-will-show-you-just-how-important">Simulation 2: See what happens in a community that practices social distancing, compared to one that doesn't.</a></p>
+		<p style="text-align:left"><a href="https://peopleofthepandemicgame.com/">Simulation 3: See how even your small decisions can have a big impact on the safety of your community.</a></li></p>
+		<div class="pictures"><figure><img src="https://images.unsplash.com/photo-1588781553983-474ccfee18bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80" id="pictures"><figcaption id=credit>Image Credit: United Nations on Unsplash</figcaption></figure></div>
+    <br>
+    <button class="btn-large waves-effect waves-light cyan" onclick="window.location.href=window.location.href">Click here to play again</button>
+  </div>
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>
